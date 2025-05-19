@@ -4,8 +4,6 @@
 
 A modern React application built with Vite.
 
-![Project Screenshot](./screenshot.png) <!-- Add your screenshot here -->
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -70,6 +68,7 @@ The build artifacts will be stored in the `dist/` directory.
 - Configured for optimal production builds
 
 ## 📸 Screenshots
-<!-- Add your screenshots here with captions -->
-<!-- ![Home Page](./screenshots/home.png) -->
-```
+<div align="center">
+  <img src="Screenshots/Screenshot1.png" alt="Main App Interface" width="400"/>
+  <img src="Screenshots/Screenshot2.png" alt="Mobile Responsive View" width="400"/>
+</div>
